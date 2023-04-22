@@ -1,5 +1,5 @@
 # RoboFriends
-It's group of robocard which have name and email details, in this we used reactjs for amazing look and filter robo name by name.
+It's group of robocard which have name and email details, in this we used reactjs for amazing look and filter roboname by name and email.
 # Visit-sites: 
 <a title="https://aneagoie.github.io/robofriends/" role="link" target="_blank" rel="noopener noreferrer nofollow" class="text-bold" href="https://deepak14ri.github.io/robofriends/">deepak14ri.github.io/robofriends/</a>
 # To run the project:
