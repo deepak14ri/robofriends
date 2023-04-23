@@ -1,7 +1,7 @@
 # Robofriends
 It's about group of robots cards with name and email, in this we used ReactJS to build amazing UI and applied filter with name and email.
 # Visit-sites:
-<a>deepak14ri.github.io/robofriends/</a>
+deepak14ri.github.io/robofriends/
 
 # To run the project:
 Clone this repository<br>
