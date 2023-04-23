@@ -8,12 +8,12 @@ Clone this repository<br>
 Run `npm install`<br>
 Run `npm start`
 
-#Leave a message for changes: 
+# Leave a message for changes: 
 deepak14ri@outlook.com
 
 # Home Page View of RoboFriends:
 
 <strong>1. Before Filter* </strong>
-https://user-images.githubusercontent.com/49471265/233412673-f9ee1db2-ce6a-477f-a17f-6a8fc0ce4b87.png
+![image](https://user-images.githubusercontent.com/49471265/233820008-aab7cf2e-485e-48fa-9ae6-74b49caf99e2.png)
 <strong>1. After Filter* </strong>
-https://user-images.githubusercontent.com/49471265/233413155-e4890583-ff55-404b-bc8a-c956a05eee09.png
+![image](https://user-images.githubusercontent.com/49471265/233820020-f7a77151-0cac-495f-95f3-6699e1c5dc2c.png)
